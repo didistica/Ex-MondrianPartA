@@ -13,7 +13,6 @@ function draw() {
    
   //Amarelo
   fill(245, 205, 0);
-  strokeWeight (0);
   rect(0, 450, 70, 300);
 
   //Azul
