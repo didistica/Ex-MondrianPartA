@@ -1,5 +1,5 @@
 # Processo - Mondrian- Parte A 
-Comecei por analisar a estrutura do quadro, e como é que cada quadrante se formava, visto que estava no islustrator reparei que algumas das linhas não eram da mesma espessura.
+Comecei por analisar a estrutura do quadro e a forma como cada quadrante se formava. Como estava no Illustrator, reparei que algumas das linhas não tinham a mesma espessura.
 ![alt text](image.png)
 
 Vi também as cores correspondentes, e os locais onde estavam.
@@ -7,11 +7,11 @@ Vi também as cores correspondentes, e os locais onde estavam.
 ![alt text](image-1.png)
 
  # Código
- Para a parte da construção em código basei-me num quadro de valores, ajudou-me no raciocínio das interseções e de onde por cada uma das linhas.
+Para a parte da construção em código, baseei-me numa tabela de valores, que me ajudou no raciocínio sobre as interseções e sobre onde colocar cada uma das linhas.
 
 Quadro de valores
 
 ![alt text](image-2.png)
 
-Na parte da de acrescentar cor no locais especifícos fui ao p5js e nas referências encontrei o rect() e reparei que podia atribuir um fill e adicionar também o noStroke.
+Para acrescentar cor em locais específicos, fui ao p5.js e, nas referências, encontrei a função rect(). Reparei que podia atribuir-lhe um fill() e adicionar também o noStroke().
 
